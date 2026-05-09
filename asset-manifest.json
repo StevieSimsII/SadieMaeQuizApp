@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/SadieMaeQuizApp/static/css/main.50b66c18.css",
+    "main.js": "/SadieMaeQuizApp/static/js/main.6edb4aba.js",
+    "index.html": "/SadieMaeQuizApp/index.html",
+    "main.50b66c18.css.map": "/SadieMaeQuizApp/static/css/main.50b66c18.css.map",
+    "main.6edb4aba.js.map": "/SadieMaeQuizApp/static/js/main.6edb4aba.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.50b66c18.css",
+    "static/js/main.6edb4aba.js"
+  ]
+}
